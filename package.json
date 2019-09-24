@@ -1,0 +1,17 @@
+{
+  "name": "clase_15",
+  "version": "1.0.0",
+  "description": "Proyecto de clase_15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Clase_15"
+  ],
+  "author": "Gerar Peralta",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
